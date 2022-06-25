@@ -1,14 +1,16 @@
+* {
+    background-color: rgb(60, 200, 100);
+}
 #title {
-    background-color: yellowgreen;
     text-align: center;
     color: brown;
-    font-size: 50px;
+    font-size: 70px;
     font-weight: bold;
+    padding: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .list {
-    background-color: yellowgreen;
     color: brown;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;   
@@ -16,19 +18,19 @@
 
 .picture {
     width: 500px;
+    margin: auto;
+    display: block;
 }
 
 .center {
-    background-color: yellowgreen;
     text-align: center;
     color: brown;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main {
-    background-color: yellowgreen;
     color: brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
