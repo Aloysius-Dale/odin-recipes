@@ -2,10 +2,6 @@
     background-color: rgb(60, 200, 100);
 }
 
-body {
-    margin: 20px;
-}
-
 #title {
     text-align: center;
     color: brown;
@@ -19,8 +15,7 @@ body {
     color: brown;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 40px;
-    margin-right: 40px;
+    text-align: center;
 }
 
 .picture {
