@@ -15,7 +15,8 @@
     color: brown;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
 }
 
 .picture {
